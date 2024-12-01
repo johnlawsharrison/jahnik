@@ -10,7 +10,7 @@
     width: 400px;
     border: 10px solid black;
     opacity: 1;
-    animation: fade 20s linear;
+    animation: fade 10s linear;
     animation-iteration-count: infinite;
 }
 
