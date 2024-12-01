@@ -6,6 +6,7 @@
 }
 
 .jahnik-img {
+    width: 400px;
     border: 10px solid black;
     opacity: 1;
     animation: fade 2s linear;
